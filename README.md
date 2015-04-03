@@ -17,3 +17,8 @@ From http://www.htpcguides.com/install-plex-media-server-on-raspberry-pi-2/
 
 Setup your locale to en_US.utf8 before launching:
 ./PlexSetup.sh
+
+# Coming next:
+- Hard Drive setup
+- Transmission install + full config
+- CouchPotato install + config
