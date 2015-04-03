@@ -1,0 +1,1 @@
+ACTION=="add", ATTRS{model}=="P9230           ", ATTRS{vendor}=="LaCie   ", RUN+="$PI_UTILS_ROOT/hd/onconnecthd.sh &"
